@@ -45,4 +45,4 @@ Mathematician, Computer Programmer & Writer
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faang12594)](https://solved.ac/faang12594)
 
 ## 💻 42 Seoul
-[[![juwkim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/juwkim?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/juwkim)](https://www.acmicpc.net/status?from_mine=1&problem_id=12095&user_id=faang12594)
+[![juwkim's 42 stats](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
