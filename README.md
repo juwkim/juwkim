@@ -12,7 +12,7 @@ Mathematician, Computer Programmer & Writer
 <a href="https://www.github.com/juwkim" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/juwkim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+## Skills
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -30,18 +30,19 @@ Mathematician, Computer Programmer & Writer
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-### Socials
+## Socials
 <p align="left">
 <a href="https://instagram.com/11juwon11" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" /></a>
 <a href="https://www.github.com/juwkim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/주원-김-8234b6251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
-  
-### Juwkim's GitHub
-<a href="http://www.github.com/juwkim"><img src="https://github-readme-stats.vercel.app/api?username=juwkim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"></a>
-<a href="https://github.com/juwkim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"></a>
 
-### Jawkim love to solve problems using a Computer
+## :green_book: GitHub Stats
+[![juwkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwkim&show_icons=true&theme=solarized-light)](https://github.com/juwkim)
+
+[![juwkim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&theme=solarized-light)](https://github.com/juwkim)
+
+## :bulb: Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faang12594)](https://solved.ac/faang12594)
 
-### Jawkim study in 42 Seoul
+## 42 Seoul
 [![juwkim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/juwkim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
