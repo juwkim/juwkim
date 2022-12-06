@@ -38,11 +38,11 @@ Mathematician, Computer Programmer & Writer
 
 ## 📗 GitHub Stats
 [![juwkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwkim&show_icons=true&theme=solarized-light)](https://github.com/juwkim)
-
 [![juwkim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&theme=solarized-light)](https://github.com/juwkim)
 
 ## 💡 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faang12594)](https://solved.ac/faang12594)
-![Juwkim profile](http://mazandi.herokuapp.com/api?handle=faang12594&theme=warm)
+[![Juwkim profile](http://mazandi.herokuapp.com/api?handle=faang12594&theme=warm)](https://www.acmicpc.net/user/faang12594)
+  
 ## 💻 42 Seoul
 [![juwkim's 42 stats](https://badge42.vercel.app/api/v2/clbby9tdf00160fkyz1qixsez/stats?cursusId=21&coalitionId=88)](https://profile.intra.42.fr/users/juwkim)
