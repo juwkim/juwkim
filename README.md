@@ -25,7 +25,8 @@ Mathematician, Computer Programmer & Writer
 <a href="http://www.github.com/juwkim"><img src="https://github-readme-stats.vercel.app/api?username=juwkim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"></a>
 <a href="https://github.com/juwkim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"></a>
 
-### Jawkim Love to solve problems using a Computer
+### Jawkim love to solve problems using a Computer
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faang12594)](https://solved.ac/faang12594)
-  
-[![juwkim's 42 stats](https://badge.mediaplus.ma/darkblue/juwkim)](https://github.com/oakoudad/badge42)
+
+### Jawkim study in 42 Seoul
+[![juwkim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/juwkim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
