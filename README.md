@@ -36,13 +36,13 @@ Mathematician, Computer Programmer & Writer
 <a href="https://www.github.com/juwkim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/주원-김-8234b6251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
 
-## :green_book: GitHub Stats
+## 📗 GitHub Stats
 [![juwkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwkim&show_icons=true&theme=solarized-light)](https://github.com/juwkim)
 
 [![juwkim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&theme=solarized-light)](https://github.com/juwkim)
 
-## :bulb: Algorithm
+## 💡 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faang12594)](https://solved.ac/faang12594)
 
-## 42 Seoul
+## 💻 42 Seoul
 [![juwkim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/juwkim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
