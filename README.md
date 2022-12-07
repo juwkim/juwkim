@@ -7,7 +7,7 @@ Mathematician, Computer Programmer & Writer
 * 🌍  I'm based in South Korea
 * ✉️  You can contact me at [juwon35721@g.skku.edu](mailto:juwon35721@g.skku.edu)
 * 🤝  I'm open to collaborating on system optimization
-* ⚡  i'm also interested in creating a beautiful source code         
+* ⚡  i'm also pursuing high levels of code quality and continuous refactoring
 
 <a href="https://www.github.com/juwkim" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/juwkim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
