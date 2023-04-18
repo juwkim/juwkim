@@ -1,7 +1,7 @@
 Hi 👋 My name is Juwon Kim
 ===========================
 
-Mathematician, Computer Programmer & Writer
+Mathematician, Computer Engineer & Writer
 -------------
 
 * 🌍  I'm based in South Korea
