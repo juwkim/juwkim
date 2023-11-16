@@ -41,6 +41,7 @@ Mathematician, Computer Engineer & Writer
 [![juwkim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&theme=solarized-light)](https://github.com/juwkim)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=juwkim&theme=calm)](https://github.com/juwkim)
+[![Juwkim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juwkim)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💡 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faang12594)](https://solved.ac/faang12594)
