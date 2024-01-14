@@ -38,7 +38,7 @@ Mathematician, Computer Engineer & Writer
 
 ## 📗 GitHub Stats
 [![juwkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwkim&show_icons=true&theme=solarized-light)](https://github.com/juwkim)
-[![juwkim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&theme=solarized-light&langs_count=5&exclude_repo=Awesome-CV,juwkim.github.io,productive-box)](https://github.com/juwkim)
+[![juwkim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&theme=solarized-light&langs_count=5&exclude_repo=Awesome-CV,juwkim.github.io,productive-box&hide=Roff)](https://github.com/juwkim)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=juwkim&theme=calm)](https://github.com/juwkim)
 
