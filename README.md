@@ -5,7 +5,7 @@ Mathematician, Computer Engineer & Writer
 -------------
 
 * 🌍  I'm based in South Korea
-* ✉️  You can contact me at [juwon35721@g.skku.edu](mailto:juwon35721@g.skku.edu)
+* ✉️  You can contact me at [juwon35721@g.skku.edu](mailto:juwon35721@kaist.ac.kr)
 * 🤝  I'm open to collaborating on system optimization
 * ⚡  i'm also pursuing high levels of code quality and continuous refactoring
 
