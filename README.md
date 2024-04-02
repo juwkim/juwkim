@@ -30,12 +30,6 @@ Mathematician, Computer Engineer & Writer
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-## Socials
-<p align="left">
-<a href="https://instagram.com/11juwon11" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" /></a>
-<a href="https://www.github.com/juwkim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
-<a href="https://www.linkedin.com/in/주원-김-8234b6251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
-
 ## 📗 GitHub Stats
 [![juwkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwkim&show_icons=true&theme=solarized-light)](https://github.com/juwkim)
 [![juwkim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwkim&theme=solarized-light&langs_count=5&exclude_repo=Awesome-CV,juwkim.github.io,productive-box&hide=Roff)](https://github.com/juwkim)
