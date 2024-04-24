@@ -4,10 +4,10 @@ Hi 👋 My name is Juwon Kim
 Mathematician, Computer Scientist & Writer
 -------------
 
-* 🌍  I'm based in South Korea
+* 🌍  I'm based in South Korea, Daejeon
 * ✉️  You can contact me at [juwon35721@kaist.ac.kr](mailto:juwon35721@kaist.ac.kr)
 * 🤝  I'm open to collaborating on system optimization
-* ⚡  i'm also pursuing high levels of code quality and continuous refactoring
+* ⚡  I'm also pursuing high levels of code quality and continuous refactoring
 
 <a href="https://www.github.com/juwkim" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/juwkim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
