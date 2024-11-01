@@ -4,10 +4,11 @@ Hi 👋 My name is Juwon Kim
 Mathematician, Computer Scientist & Writer
 -------------
 
-* 🌍  I'm based in South Korea, Daejeon
-* ✉️  You can contact me at [juwon35721@kaist.ac.kr](mailto:juwon35721@kaist.ac.kr)
-* 🤝  I'm open to collaborating on system optimization
-* ⚡  I'm also pursuing high levels of code quality and continuous refactoring
+* 🌍  Based in South Korea, Daejeon
+* ✉️  Reach me at [juwon35721@kaist.ac.kr](mailto:juwon35721@kaist.ac.kr)
+* 🤝  Open to collaborating on system optimization
+* ⚡  Dedicated to high code quality and continuous refactoring
+* 💬 Passionate about Graph Theory, Convex Optimization, and Algebraic Complexity Theory
 
 <a href="https://www.github.com/juwkim" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/juwkim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -20,10 +21,6 @@ Mathematician, Computer Scientist & Writer
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
